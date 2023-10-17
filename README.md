@@ -1,5 +1,6 @@
 # PicoPiRubberDuckyWorkshop
 Workshop run by ArtemisNet for Devfest. To demo how to turn Pico Pis into Rubber Duckies.
+Huge credit goes to https://github.com/dbisu/pico-ducky for the idea and code used in this workshop.
 
 STEP 1)
 To begin after plugin in your rubber ducky copy `adafruit-circuitpython-raspberry_pi_pico-en_US-8.2.6` into the root of your pico pi. It will then reboot.
