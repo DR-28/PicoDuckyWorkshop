@@ -12,4 +12,4 @@ STEP 3)
 Download the ZIP file `PicoPiRubberDucky` and UNZIP it in the `CIRCUITPY` drive.
 
 STEP 4)
-Create a script and save it as a payload.dd and add it to the root directory of the `CIRCUITPY` drive.
+Create a script and save it as a payload.dd and add it to the root directory of the `CIRCUITPY` drive. The payload.dd in the repository is only for mac users.
